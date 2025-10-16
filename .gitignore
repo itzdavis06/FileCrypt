@@ -1,0 +1,32 @@
+# ============================
+# Python Password Checker Project
+# ============================
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore database and credentials
+*.db
+*.sql
+.env
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore backups or temp files
+*~
